@@ -1,0 +1,32 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+header { 
+	background-image: url(tv.jpg); 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%; 
+	color: whitesmoke;
+}
+
+h1 { 
+	font-size: 3.5em;
+}
+h2 {
+  font-family: "Staatliches", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:2.5em;
+ }
+
+nav a { 
+	color: white !important;
+	 }
+
+nav { 
+	background-color: 	#0F52BA; 
+}
+
+.blue-bg { 
+	background-color: #DFF2FF 
+}
